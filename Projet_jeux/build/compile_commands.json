@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/mnt/c/Users/Camille/cours-info/C++/Projet_Jeux/build",
+  "command": "/usr/bin/g++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/mnt/c/Users/Camille/cours-info/C++/Projet_jeux -g -std=gnu++14 -o CMakeFiles/jeu.dir/random.cpp.o -c /mnt/c/Users/Camille/cours-info/C++/Projet_jeux/random.cpp",
+  "file": "/mnt/c/Users/Camille/cours-info/C++/Projet_jeux/random.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Camille/cours-info/C++/Projet_Jeux/build",
+  "command": "/usr/bin/g++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/mnt/c/Users/Camille/cours-info/C++/Projet_jeux -g -std=gnu++14 -o CMakeFiles/jeu.dir/inventaire.cpp.o -c /mnt/c/Users/Camille/cours-info/C++/Projet_jeux/inventaire.cpp",
+  "file": "/mnt/c/Users/Camille/cours-info/C++/Projet_jeux/inventaire.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Camille/cours-info/C++/Projet_Jeux/build",
+  "command": "/usr/bin/g++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/mnt/c/Users/Camille/cours-info/C++/Projet_jeux -g -std=gnu++14 -o CMakeFiles/jeu.dir/personnage.cpp.o -c /mnt/c/Users/Camille/cours-info/C++/Projet_jeux/personnage.cpp",
+  "file": "/mnt/c/Users/Camille/cours-info/C++/Projet_jeux/personnage.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Camille/cours-info/C++/Projet_Jeux/build",
+  "command": "/usr/bin/g++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/mnt/c/Users/Camille/cours-info/C++/Projet_jeux -g -std=gnu++14 -o CMakeFiles/jeu.dir/combat.cpp.o -c /mnt/c/Users/Camille/cours-info/C++/Projet_jeux/combat.cpp",
+  "file": "/mnt/c/Users/Camille/cours-info/C++/Projet_jeux/combat.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Camille/cours-info/C++/Projet_Jeux/build",
+  "command": "/usr/bin/g++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/mnt/c/Users/Camille/cours-info/C++/Projet_jeux -g -std=gnu++14 -o CMakeFiles/jeu.dir/catalogue.cpp.o -c /mnt/c/Users/Camille/cours-info/C++/Projet_jeux/catalogue.cpp",
+  "file": "/mnt/c/Users/Camille/cours-info/C++/Projet_jeux/catalogue.cpp"
+},
+{
+  "directory": "/mnt/c/Users/Camille/cours-info/C++/Projet_Jeux/build",
+  "command": "/usr/bin/g++ -D_GLIBCXX_USE_CXX11_ABI=0 -I/mnt/c/Users/Camille/cours-info/C++/Projet_jeux -g -std=gnu++14 -o CMakeFiles/jeu.dir/main.cpp.o -c /mnt/c/Users/Camille/cours-info/C++/Projet_jeux/main.cpp",
+  "file": "/mnt/c/Users/Camille/cours-info/C++/Projet_jeux/main.cpp"
+}
+]
